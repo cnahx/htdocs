@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 echo ("<table height='10' width=10><tr>");
 for ($i=1; $i <= 10; $i++) {
     echo ("<td>");
@@ -10,3 +10,4 @@ for ($i=1; $i <= 10; $i++) {
 }
 echo ("</tr></table>");
 ?>
+ -->
