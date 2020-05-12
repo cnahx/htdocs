@@ -10,7 +10,7 @@ echo "<table class='bg' border=\"1\">";
 
 for ($r =0; $r < $rows; $r++){
 
-    echo('<tr class="">');
+    echo('<tr class="bg2">');
 
     for ($c = 0; $c < $cols; $c++)
         echo( '<td class="">' .$c*$r.'</td>');
